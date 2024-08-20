@@ -33,8 +33,8 @@ Ikuti langkah-langkah berikut untuk menyiapkan dan menjalankan proyek secara lok
     -Ganti variabel API_KEY dengan API key OpenWeatherMap Anda:
      const API_KEY = 'api_key_openweathermap_anda';
   4. Mulai Metro server:
-   
-    -npx react-native start --reset-cache
+     ```bash
+     -npx react-native start --reset-cache
   6. Jalankan aplikasi:
      ```bash
      - npx react-native run-android
