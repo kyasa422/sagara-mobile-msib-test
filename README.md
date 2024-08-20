@@ -24,8 +24,8 @@ Ikuti langkah-langkah berikut untuk menyiapkan dan menjalankan proyek secara lok
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/username-anda/weather-forecast-app.git
-   cd weather-forecast-app
+   git clone https://github.com/kyasa422/sagara-mobile-msib-test.git
+   
  2. Instal dependensi:
     npm install
  3. Konfigurasi API key:
@@ -33,8 +33,10 @@ Ikuti langkah-langkah berikut untuk menyiapkan dan menjalankan proyek secara lok
     -Ganti variabel API_KEY dengan API key OpenWeatherMap Anda:
      const API_KEY = 'api_key_openweathermap_anda';
   4. Mulai Metro server:
+     ```bash
     -npx react-native start --reset-cache
-  5. Jalankan aplikasi:
+  6. Jalankan aplikasi:
+     ```bash
      - npx react-native run-android
      - npx react-native run-ios
 ## Penggunaan
