@@ -33,7 +33,7 @@ Ikuti langkah-langkah berikut untuk menyiapkan dan menjalankan proyek secara lok
     -Ganti variabel API_KEY dengan API key OpenWeatherMap Anda:
      const API_KEY = 'api_key_openweathermap_anda';
   4. Mulai Metro server:
-     ```bash
+   
     -npx react-native start --reset-cache
   6. Jalankan aplikasi:
      ```bash
@@ -46,5 +46,3 @@ Ketuk tombol "Cari" untuk mengambil dan menampilkan informasi cuaca.
 Berkontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repository ini dan kirim pull request.
 
-## Lisensi
-Proyek ini bersifat open-source dan tersedia di bawah Lisensi MIT.
